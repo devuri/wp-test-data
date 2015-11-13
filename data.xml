@@ -13,15 +13,6 @@
 		<generator>https://w.org</generator>
 
 
-		<!-- Favicon -->
-
-		<image>
-			<url>https://s2.wp.com/i/buttonw-com.png</url>
-			<title> &#187; Theme Unit Test Data</title>
-			<link>http://wpthemetestdata.wordpress.com</link>
-		</image>
-
-
 		<!-- Authors -->
 
 		<wp:wp_author>
