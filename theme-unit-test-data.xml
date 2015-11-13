@@ -6202,8 +6202,8 @@ And this content is after the more tag.]]></content:encoded>
   <description/>
   <content:encoded><![CDATA[Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 <ul>
-	<li><span style="line-height:1.714285714;font-size:1rem;">Lists within lists do not break the ordered list numbering order</span></li>
-	<li><span style="line-height:1.714285714;font-size:1rem;">Your list styles go deep enough.</span></li>
+	<li>Lists within lists do not break the ordered list numbering order</li>
+	<li>Your list styles go deep enough.</li>
 </ul>
 <h3>Ordered - Unordered - Ordered</h3>
 <ol>
@@ -7780,8 +7780,8 @@ Post Page 3]]></content:encoded>
   <description/>
   <content:encoded><![CDATA[Verify that:
 <ul>
-	<li><span style="line-height:1.714285714;font-size:1rem;">The post title renders the word "with" in </span><em style="line-height:1.714285714;font-size:1rem;">italics</em><span style="line-height:1.714285714;font-size:1rem;"> and the word "markup" in </span><strong style="line-height:1.714285714;font-size:1rem;">bold</strong><span style="line-height:1.714285714;font-size:1rem;">.</span></li>
-	<li><span style="line-height:1.714285714;font-size:1rem;">The post title markup should be removed from the browser window / tab.</span></li>
+	<li>The post title renders the word "with" in <em>italics</em> and the word "markup" in <strong>bold</strong>.</li>
+	<li>The post title markup should be removed from the browser window / tab.</li>
 </ul>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1173</wp:post_id>
