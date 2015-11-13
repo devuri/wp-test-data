@@ -2440,14 +2440,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/image-alignment-580x300.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[906]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>Image Alignment 150x150</title>
@@ -2471,14 +2463,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/image-alignment-150x150.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[904]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>Horizontal Featured Image</title>
@@ -2502,14 +2486,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/featured-image-horizontal.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[1022]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>I Am Worth Loving Wallpaper</title>
@@ -2533,14 +2509,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/soworthloving-wallpaper.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[842]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>Image Alignment 300x200</title>
@@ -2564,14 +2532,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/image-alignment-300x200.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[905]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>Vertical Featured Image</title>
@@ -2595,14 +2555,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/featured-image-vertical.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[1024]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>Image Alignment 1200x4002</title>
@@ -2626,14 +2578,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/image-alignment-1200x4002.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[907]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>Unicorn Wallpaper</title>
@@ -2657,14 +2601,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:post_password/>
 			<wp:is_sticky>0</wp:is_sticky>
 			<wp:attachment_url>https://raw.githubusercontent.com/iseulde/wp-test-data/master/media/unicorn-wallpaper.jpg</wp:attachment_url>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_parent</wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:postmeta>
-			<wp:postmeta>
-				<wp:meta_key>pre_import_post_id</wp:meta_key>
-				<wp:meta_value><![CDATA[967]]></wp:meta_value>
-			</wp:postmeta>
 		</item>
 		<item>
 			<title>triforce-wallpaper</title>
